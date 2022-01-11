@@ -4,12 +4,12 @@
 
 Objetivo General
 
-* Conocer sobre el análisis de ramas, lazos y nodos, magnetismo y electromagnetismo mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
+* Conocer sobre los capacitores e inductores mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
 
 Objetivo Específico
 
-* Resumir los capitulos nueve y diez del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
-* Aplicar los conocimientos adquiridos de análisis de ramas, lazos y nodos, magnetismo y electromagnetismo para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+* Resumir los capitulos once y doce del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
+* Aplicar los conocimientos adquiridos de capacitores e inductores para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 
 2. MARCO TEÓRICO 
 

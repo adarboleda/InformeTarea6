@@ -60,9 +60,41 @@ Usando la formula de la carga total y el voltaje en capacitores
 
 ![image](https://user-images.githubusercontent.com/93734334/149025673-925d0b4c-55b3-4c17-bc2d-6585e37e5c75.png)
 
+(a) CT = 47 + 10 + 1000
+
+**CT = 1057 pF**
+
+(b) CT = 0.1 + 0.01 + 0.001 + 0.01
+
+**CT = 0.121 uF**
+
 27. Determine la CT para cada circuito de la figura 12-72. 
 
 ![image](https://user-images.githubusercontent.com/93734334/149025771-390c93b4-deec-42e1-ba71-170d1366b3d9.png)
+
+(a)                                                                                                                                                                               
+1/Ceq = 1/10 + 1/10                                                                                                                                                               
+Ceq = 5
+
+Ceq2 = 2.2 + 3.3                                                                                                                                                                 
+Ceq2 = 5.5
+
+1/CT = 1/5 + 1/5.5
+
+**CT = 2.62 uF**
+
+(b)                                                                                                                                                                               
+1/Ceq = 1/100 + 1/100                                                                                                                                                             
+Ceq = 50
+
+1/Ceq2 = 1/100 + 1/470                                                                                                                                                           
+Ceq2 = 319.73 
+
+1/Ceq3 = 1/1 + 1/470                                                                                                                                                             
+Ceq3 = 0.99
+
+CT = 50 + 319.73 + 0.99                                                                                                                                                           
+**CT = 689 pF**
 
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 

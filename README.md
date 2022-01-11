@@ -48,6 +48,12 @@ Objetivo Específico
 23. Dos capacitores en serie (uno de 1 uF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
+Usando la formula de la carga total y el voltaje en capacitores
+
+4 = [((1/(1/1 + 1/Cx) x 12)/Cx]
+
+**Cx = 2**
+
 * SECCIÓN 12–4 Capacitores en paralelo
 
 25. Determine la CT para cada circuito de la figura 12-71.

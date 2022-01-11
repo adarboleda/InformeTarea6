@@ -100,20 +100,56 @@ CT = 50 + 319.73 + 0.99
 
 ![image](https://user-images.githubusercontent.com/93734334/149025895-c5919410-dcc6-4acf-9452-4677344f736a.png)
 
-(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?                                                                                 
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+(a)
+
+**Respuesta**
+
+La carga total suministrada por la fuente 0.411 uC
+
+(b)
+
+**Respesta**
+
+V1 = 10.47 V
+
+V2 = 1.54 V
+
+V3 = 6.52 V
+
+V4 = 5.48 V
 
 * SECCIÓN 12–5 Capacitores en circuitos de cd
 
 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
+Se va a usar la foomula t = RC
+
 (a) R = 56 ohm, C = 47 uF
+
+t = 56 x 47
+
+**t = 13.2 us**
 
 (b) R = 3300 ohm, C = 0.015 uF
 
+t = 3300 x 0.015
+
+**t = 247.5 us**
+
 (c) R = 22 kohm, C = 100 pF
 
+t = 22 x 100
+
+**t = 11us**
+
 (d) R = 5.6 Mohm, C = 10 pF
+
+t = 5600000 x 10
+
+**t = 280 us**
 
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 

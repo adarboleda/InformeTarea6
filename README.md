@@ -33,6 +33,18 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/149025506-b82b44e6-b4a0-47b4-87fa-42514928c2ac.png)
 
+(a) 1/CT = 1/1 + 1/2.2
+
+**CT = 0.688 uF**
+
+(b) 1/CT = 1/100 + 1/560 + 1/390
+
+**CT = 69.7 pF**
+
+(c) 1/CT = 1/10 + 1/4.7 + 1/47 + 1/22
+
+**CT = 2.64 uF**
+
 23. Dos capacitores en serie (uno de 1 uF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 

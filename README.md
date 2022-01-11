@@ -21,6 +21,8 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/148845470-0564992a-540d-4132-a861-16e5ab9d3811.png)
 
+![image](https://user-images.githubusercontent.com/93734334/148858809-2c879c9c-27be-4165-9905-3e7d4ae2d552.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO

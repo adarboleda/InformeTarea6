@@ -332,6 +332,10 @@ R = 10/2200
 
 5. CONCLUSIONES
 
+* Como conclusión cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña, esto se debe a que la separación efectiva entre las placas se incrementa. Para calcular la capacitancia total en serie se lo realiza de igual manera que la resistencia total de resistores dispuestos en paralelo.
+
+* También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas  se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
+
 6. BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view

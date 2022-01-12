@@ -157,17 +157,83 @@ t = 5600000 x 10
 
 ![image](https://user-images.githubusercontent.com/93734334/149026474-a920eddd-e4c4-42ca-8c0b-bdc027eb9455.png)
 
+usando la formula 
+
+t = -RCln(v/Vi)
+
+(a)
+
+1.5 = -1 x 1.5 x ln(v/25)
+
+**V = 9.20 V**
+
+(b)
+
+4.5 = -1 x 1.5 x ln(v/25)
+
+**V = 1.24 V**
+
+(c)
+
+6 = -1 x 1.5 x ln(v/25)
+
+**V = 0.458 V**
+
+(d)
+
+7.5 = -1 x 1.5 x ln(v/25)
+
+**V = 0.168 V**
+
 35. Repita el problema 33 con los siguientes tiempos:
 
 (a) 0.5 ms (b) 1 ms (c) 2 ms
+
+t = -RCln(v/Vi)
+
+(a)
+
+0.5 = -1 x 1.5 x ln(v/25)
+
+**V = 17.9 V**
+
+(b)
+
+1 = -1 x 1.5 x ln(v/25)
+
+**V = 12.8 V**
+
+(c)
+
+2 = -1 x 1.5 x ln(v/25)
+
+**V = 6.59 V**
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
 ![image](https://user-images.githubusercontent.com/93734334/149026590-2757f863-cfe8-41ad-ac9e-12ff2829d4cd.png)
 
+v = VF(1 - e^(-t/RC))
+
+8 = 12 (1 - e^(-t/0.22))
+
+**t = 7.62 us**
+
 39. Determine la constante de tiempo para el circuito de la figura 12-77.
 
 ![image](https://user-images.githubusercontent.com/93734334/149026638-d8cd7b17-776c-4064-bf0a-0cc3a8490639.png)
+
+Encontrar la resitencia equivolante
+
+1/RT = 1/1 + 1/1.5 + 1/2.2 + 1/1
+
+RT = 0.32
+
+t = RC
+
+t = 0.32 x 0.0022
+
+**t = 3.00 us**
 
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 

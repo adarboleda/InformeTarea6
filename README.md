@@ -235,11 +235,20 @@ t = 0.32 x 0.0022
 
 **t = 3.00 us**
 
-41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+41.
+![image](https://user-images.githubusercontent.com/93734334/149027059-f712776a-8854-4674-904b-0a2c7b920567.png)
+
+(a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+**Respuesta** 
+
+![image](https://user-images.githubusercontent.com/93734334/149042198-36cca482-a813-4e14-9bd7-9eff48a9aaf3.png)
 
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
-![image](https://user-images.githubusercontent.com/93734334/149027059-f712776a-8854-4674-904b-0a2c7b920567.png)
+**Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/149042257-8dd6736f-42e1-427e-bea1-7dbd2763ed39.png)
 
 * SECCIÓN 12–6 Capacitores en circuitos de ca
 
@@ -247,7 +256,35 @@ t = 0.32 x 0.0022
 
 ![image](https://user-images.githubusercontent.com/93734334/149027311-5596b208-a5bd-4e23-a4fb-b9e30ec8749b.png)
 
+Xc = 1/2pifC
+
+(a)
+
+Xc = 1/2pi(2)(2.62)
+
+**Xc = 30.4 ohm**
+
+(b)
+
+Xc = 1/2pi(2)(689)
+
+**Xc = 116 kohm**
+
+(c)
+
+Xc = 1/2pi(2)(1.6)
+
+**Xc = 49.7 ohm**
+
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+I = V/Xc
+
+Xc = V/I
+
+Xc = 20/100
+
+**Xc = 200 ohm**
 
 47. Determine la potencia verdadera y la potencia reactiva en el problema 46.
 

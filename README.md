@@ -288,9 +288,23 @@ Xc = 20/100
 
 47. Determine la potencia verdadera y la potencia reactiva en el problema 46.
 
+Para un capacitor ideal, la potencia real Preal, siempre es de cero
+
+**0W**
+
+XC = 1/2pifC                                                                                                                                                                     
+Xc = 1/ 2pi(10)(0.01 x 0.0047)                                                                                                                                                  
+Xc = 33.86
+
+Pr = V^2rms/XC                                                                                                                                                                   
+Pr = (2 V)^2/33.86 kohm                                                                                                                                                           
+Pr = 503 * 10-6 VAR                                                                                                                                                               
+**Pr = 3.39 mVAR**
+
 49. Determine el valor de C1 en la figura 12-82. 
 
 ![image](https://user-images.githubusercontent.com/93734334/149027432-4d3a2485-f4ea-4d62-8a14-61dffa50fd0a.png)
+
 
 * SECCIÓN 12–7 Aplicaciones de los capacitores 
 
@@ -298,9 +312,21 @@ Xc = 20/100
 
 ![image](https://user-images.githubusercontent.com/93734334/149027785-3fdbb7ad-e140-4c37-b511-f5188f0ad0d8.png)
 
+**Respuesta**
+
+Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia, la fluctuación se reduce.
+
 * SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+Se va a usar la formula 
+
+R = T/C
+
+R = 10/2200
+
+**R = 4.55 kohm**
 
 4. VIDEO
 

@@ -305,13 +305,21 @@ Pr = 503 * 10-6 VAR
 
 ![image](https://user-images.githubusercontent.com/93734334/149027432-4d3a2485-f4ea-4d62-8a14-61dffa50fd0a.png)
 
-Ceq = 0.0022 + 0.0015
+Ceq = 0.0022 + 0.0015                                                                                                                                                             
 Ceq = 0.037 
 
-Xc3 = 1/2pifC
-f = 1/2piXcC
-f = 1/2pi(750)0.0015
-f =
+Xc3 = 1/2pifC                                                                                                                                                                     
+f = 1/2piXcC                                                                                                                                                                     
+f = 1/2pi(750)0.0015                                                                                                                                                             
+f = 0.141kHz
+
+Para encontrar C1
+
+Xc = 1/2pifC                                                                                                                                                                     
+C1 = 1/2pifXc                                                                                                                                                                     
+C1 = 1/2pi(0.141kHz)(750)                                                                                                                                                         
+**C1 = 0.00541 uF**
+
 * SECCIÓN 12–7 Aplicaciones de los capacitores 
 
 51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?

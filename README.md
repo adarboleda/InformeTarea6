@@ -12,6 +12,19 @@ Objetivo Específico
 * Aplicar los conocimientos adquiridos de capacitores e inductores para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 
 2. MARCO TEÓRICO 
+ 
+![imagen](https://user-images.githubusercontent.com/93879569/149496034-4dc2833e-624f-4d7b-93eb-a55c18f4f2c3.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149496206-ab773aa7-ca73-4141-a295-7e28129ff175.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149496284-8ab841e4-37d1-4cad-a647-8748c6124756.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149496327-9538f950-c82a-485a-89c7-16971d1f29e8.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149496395-5c99c04e-89cb-4747-8dde-5a38d0c2355e.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149496473-87a72161-e6f4-4e8b-8464-e0def5bf5ed7.png)
+
 
 ![image](https://user-images.githubusercontent.com/93734334/148784680-d0f349e7-f385-47b2-ae67-25c7758709fc.png)
 
@@ -26,6 +39,390 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93734334/148862144-f04fc98f-2bae-4c21-859c-be1c3f611d29.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+SECCIÓN 11–1 La forma de onda sinusoidal
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+
+(a) 1 s
+
+f=1/T=(n°)/tiempo
+
+f=(1 vuelta)/(1 s)
+
+**f=1 Hz
+
+(b) 0.2 s
+
+f=1/T=(n°)/tiempo
+
+f=(1 vuelta)/(0.2 s)
+
+**f=5 Hz
+ 
+(c) 50 ms 
+
+f=1/T=(n°)/tiempo
+
+f=(1 vuelta)/(50 ms)=(1 vuelta)/(0.05 s)
+
+**f=20 Hz
+		
+(d) 1 ms
+
+f=1/T=(n°)/tiempo
+
+f=(1 vuelta)/(1 ms)=(1 vuelta)/(0.001 s)
+
+**f=1000 Hz
+	
+(e) 500 𝛍s
+ 	
+f=1/T=(n°)/tiempo
+
+T=(1 vuelta)/(500 μs)
+
+**f=0.002=2 kHz
+
+(f) 10 𝛍s
+
+f=1/T=(n°)/tiempo
+
+f=(1 vuelta)/(10 μs)
+
+**f=0.1=100 kHz
+	
+3. Una onda seno realiza 5 ciclos en 10 𝛍s. ¿Cuál es su periodo?
+T=tiempo/(n° de vueltas)
+
+T=(10 μs)/5
+
+**T=2 μs
+
+SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+
+f=(número de pares de polos)* rps
+
+f=1 * 250rps
+
+**f=250 Hz
+
+7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+f=(número de pares de polos)* rps
+
+rps=  f/(número de pares de polos)
+
+rps=  (400 Hz)/2
+
+**rapidez=200 rps
+
+SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
+
+9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
+
+(a) pico
+
+I_rms=0.707*I_p
+
+I_p=I_rms/0.707=(5 mA)/0.707
+
+**I_p=7.07 mA
+
+ (b) promedio
+
+I_prom=(2*I_p)/π=(2*7.07 mA)/π
+
+**I_prom=4.5 mA,medio ciclo
+
+**I_prom=0 A,   ciclo entero
+
+ (c) pico a pico
+
+I_pp=2*I_p=2*7.07mA
+
+**I_pp=14.14 mA
+
+SECCIÓN 11–4 Medición angular de una onda seno
+
+11. Transforme los siguientes valores angulares de grados a radianes:
+
+(a) 30°
+
+rad=grados*  (π rad)/(180°)
+
+rad=30°*  (π rad)/(180°)
+
+**rad=π/6  rad
+
+(b)  45° 
+
+rad=grados*  (π rad)/(180°)
+
+rad=45°*  (π rad)/(180°)
+
+**rad=π/4  rad
+
+ (c) 78°
+
+rad=grados*  (π rad)/(180°)
+
+rad=78°*  (π rad)/(180°)
+
+**rad=13π/30  rad
+
+ (d) 135°
+
+rad=grados*  (π rad)/(180°)
+
+rad=135°*  (π rad)/(180°)
+
+**rad=3π/4  rad
+
+(e) 200°
+ 
+rad=grados*  (π rad)/(180°)
+
+rad=200°*  (π rad)/(180°)
+
+**rad=10π/9  rad
+
+(f) 300°
+
+rad=grados*  (π rad)/(180°)
+
+rad=300°*  (π rad)/(180°)
+
+**rad=5π/3  rad
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+**θ= 45°-30°=15°
+
+**∴ Se adelanta la señal A
+
+15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+
+onda seno A= azul=sen(x)
+
+onda seno B=roja=sen(x-π/2)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497216-f7d182bd-27b7-4001-99e4-fd88a8e8461b.png)
+
+SECCIÓN 11–5 La fórmula de la onda seno
+17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos:
+
+(a) 35°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(35°)
+
+**i= 57.36 mA
+
+(b) 95°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(95°)
+
+**i= 99.62 mA
+
+(c) 190°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(190°)
+
+**i= -17.36 mA
+
+(d) 215°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(215°)
+
+**i= -57.36 mA
+
+(e) 275°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(275°)
+
+**i= -99.62 mA
+
+(f) 360°
+
+i= I_p*sen(θ)
+
+i= 100 mA*sen(360°)
+
+**i= 0 A
+
+19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+	30°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(30°+30°)
+
+v= 15V*sen(60°)
+
+**v= 12.99 V=13V
+
+	45°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(45°+30°)
+
+v= 15V*sen(75°)
+
+**v= 14.48 V=14.5V
+
+	90°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(90°+30°)
+
+v= 15V*sen(120°)
+
+**v= 12.99 V=13V
+
+	180°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(180°+30°)
+
+v= 15V*sen(210°)
+
+**v= -7.5 V
+
+	200°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(200°+30°)
+
+v= 15V*sen(230°)
+
+**v= -11.49 V=-11.5V
+
+	300°
+
+v= V_p*sen(θ+30°)
+
+v= 15V*sen(300°+30°)
+
+v= 15V*sen(330°)
+
+**v= -7.5 V
+
+*21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+v1=25/0.707*sen(2π*2.2kHz*0.12 s) 
+
+v1=35.22 V
+
+v2=25/0.707*sen(2π*2.2kHz*0.2 s) 
+
+v2=13.02V 
+
+vcambio=v1-v2=(35.22-13.02)
+**vcambio=22.2 V
+
+SECCIÓN 11–6 Introducción a los fasores
+23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497586-a9789592-2ed9-4237-b62e-864928340f41.png)
+
+onda seno B= azul=sen(x)  (referencia)
+
+onda seno A=naranja=1.5* sen(x+π/4)(el de 45°)
+
+onda seno B=violeta=sen(x-π/3)(el de 60°)
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497640-9c7a8070-cb7e-4191-923e-ffc85b1447b1.png)
+
+25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497692-cbb20dcd-e1aa-433b-9729-4ca534372e29.png)
+
+	30 μs 
+
+v=1V*sen(π/4*5kHz*30 μs) 
+
+**v=156 mV
+	
+  75 μs
+
+v=1V*sen(π/4*5kHz*75 μs) 
+
+**v=1 V
+
+
+
+	125 μs 
+
+v=1V*sen(π/4*5kHz*125 μs)
+
+**v= 0V
+
+
+
+SECCIÓN 11–7 Análisis de circuitos de ca
+
+27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497857-d6ef8450-33e9-4ea2-a164-2f6228cbc48f.png)
+
+SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
+
+29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?
+
+V_p=V_rms/0.707=(10.6 V)/0.707
+
+V_p=14.99V=15V
+
+V_máx=V_CD+V_p
+
+**V_máx=24V+15V=39V
+
+V_mín=V_CD-V_p
+
+**V_mín=24V-15V=9V
+
+31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?
+
+V_mín=V_CD-V_p
+
+**V_mín=5V-6V=-1V
+
+
+SECCIÓN 11–9 Formas de onda no sinusoidales
+
+33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
+
+![imagen](https://user-images.githubusercontent.com/93879569/149497976-cf5233fb-6038-4e1d-8d55-f301f3ef5e6a.png)
+
+Amplitud: 5V
+
+5*90%=4.5 
+
+5*10%=0.5
+
+4.5-0.5=4
+
+**Al ver la coordenada más cercana a ese punto es  t_s=3 ms y t_f=3 ms  
+
+5*50%=2.5
+
+Los valores cercanos son 2 y 14
+
+**t_w=14-2=12ms
+
 
 * SECCIÓN 12–3 Capacitores en serie
 
@@ -349,6 +746,10 @@ R = 10/2200
 * Como conclusión cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña, esto se debe a que la separación efectiva entre las placas se incrementa. Para calcular la capacitancia total en serie se lo realiza de igual manera que la resistencia total de resistores dispuestos en paralelo.
 
 * También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas  se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
+
+*Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
+
+*Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
 
 6. BIBLIOGRAFÍA
 

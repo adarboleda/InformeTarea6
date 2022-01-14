@@ -402,6 +402,27 @@ v=1V*sen(π/4*5kHz*125 μs)
 
 ![imagen](https://user-images.githubusercontent.com/93879569/149497857-d6ef8450-33e9-4ea2-a164-2f6228cbc48f.png)
 
+∑▒Ixentrada=∑▒Ixsalida
+
+(110V-VA)/(470 Ω )=(VA-30V)/(1000 Ω)+(VA-65V)/1
+
+110V/(470 Ω )-VA/(470 Ω )=VA/(1000 Ω)-30V/(1000 Ω )+VA/1-65V/(1 Ω )
+
+1.003 VA=65.26
+
+VA=65.06V
+
+Vx=VA/RT*Rx
+
+Vx=(470*1000)/(470+1000)*65.06V*1000
+
+**Vprom1=40.5V
+
+Vx=(470*1000)/(470+1000)*65.06V*470
+
+**Vprom2=31.5V
+
+
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?

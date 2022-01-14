@@ -39,8 +39,10 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93734334/148862144-f04fc98f-2bae-4c21-859c-be1c3f611d29.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 SECCIÓN 11–1 La forma de onda sinusoidal
-1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+
+1 Calcule la frecuencia con cada uno de los siguientes valores de periodo:
 
 (a) 1 s
 

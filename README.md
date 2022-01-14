@@ -71,7 +71,7 @@ f=1/T=(n°)/tiempo
 
 f=(1 vuelta)/(1 s)
 
-**f=1 Hz
+**f=1 Hz**
 
 (b) 0.2 s
 
@@ -79,7 +79,7 @@ f=1/T=(n°)/tiempo
 
 f=(1 vuelta)/(0.2 s)
 
-**f=5 Hz
+**f=5 Hz**
  
 (c) 50 ms 
 
@@ -87,7 +87,7 @@ f=1/T=(n°)/tiempo
 
 f=(1 vuelta)/(50 ms)=(1 vuelta)/(0.05 s)
 
-**f=20 Hz
+**f=20 Hz**
 		
 (d) 1 ms
 
@@ -95,7 +95,7 @@ f=1/T=(n°)/tiempo
 
 f=(1 vuelta)/(1 ms)=(1 vuelta)/(0.001 s)
 
-**f=1000 Hz
+**f=1000 Hz**
 	
 (e) 500 𝛍s
  	
@@ -103,7 +103,7 @@ f=1/T=(n°)/tiempo
 
 T=(1 vuelta)/(500 μs)
 
-**f=0.002=2 kHz
+**f=0.002=2 kHz**
 
 (f) 10 𝛍s
 
@@ -111,14 +111,14 @@ f=1/T=(n°)/tiempo
 
 f=(1 vuelta)/(10 μs)
 
-**f=0.1=100 kHz
+**f=0.1=100 kHz**
 	
 3. Una onda seno realiza 5 ciclos en 10 𝛍s. ¿Cuál es su periodo?
 T=tiempo/(n° de vueltas)
 
 T=(10 μs)/5
 
-**T=2 μs
+**T=2 μs**
 
 * SECCIÓN 11–2 Fuentes de voltaje sinusoidal
 
@@ -128,7 +128,7 @@ f=(número de pares de polos)* rps
 
 f=1 * 250rps
 
-**f=250 Hz
+**f=250 Hz**
 
 7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
 
@@ -138,7 +138,7 @@ rps=  f/(número de pares de polos)
 
 rps=  (400 Hz)/2
 
-**rapidez=200 rps
+**rapidez=200 rps**
 
 * SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
@@ -150,21 +150,21 @@ I_rms=0.707*I_p
 
 I_p=I_rms/0.707=(5 mA)/0.707
 
-**I_p=7.07 mA
+**I_p=7.07 mA**
 
  (b) promedio
 
 I_prom=(2*I_p)/π=(2*7.07 mA)/π
 
-**I_prom=4.5 mA,medio ciclo
+**I_prom=4.5 mA, medio ciclo**
 
-**I_prom=0 A,   ciclo entero
+**I_prom=0 A,   ciclo entero**
 
  (c) pico a pico
 
 I_pp=2*I_p=2*7.07mA
 
-**I_pp=14.14 mA
+**I_pp=14.14 mA**
 
 * SECCIÓN 11–4 Medición angular de una onda seno
 
@@ -176,7 +176,7 @@ rad=grados*  (π rad)/(180°)
 
 rad=30°*  (π rad)/(180°)
 
-**rad=π/6  rad
+**rad=π/6  rad**
 
 (b)  45° 
 
@@ -184,7 +184,7 @@ rad=grados*  (π rad)/(180°)
 
 rad=45°*  (π rad)/(180°)
 
-**rad=π/4  rad
+**rad=π/4  rad**
 
  (c) 78°
 
@@ -192,7 +192,7 @@ rad=grados*  (π rad)/(180°)
 
 rad=78°*  (π rad)/(180°)
 
-**rad=13π/30  rad
+**rad=13π/30  rad**
 
  (d) 135°
 
@@ -200,7 +200,7 @@ rad=grados*  (π rad)/(180°)
 
 rad=135°*  (π rad)/(180°)
 
-**rad=3π/4  rad
+**rad=3π/4  rad**
 
 (e) 200°
  
@@ -208,7 +208,7 @@ rad=grados*  (π rad)/(180°)
 
 rad=200°*  (π rad)/(180°)
 
-**rad=10π/9  rad
+**rad=10π/9  rad**
 
 (f) 300°
 
@@ -216,12 +216,13 @@ rad=grados*  (π rad)/(180°)
 
 rad=300°*  (π rad)/(180°)
 
-**rad=5π/3  rad
+**rad=5π/3  rad**
+
 13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
 
-**θ= 45°-30°=15°
+**θ= 45°-30°=15°**
 
-**∴ Se adelanta la señal A
+**Se adelanta la señal A**
 
 15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
 
@@ -235,57 +236,57 @@ onda seno B=roja=sen(x-π/2)
 
 17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos:
 
-(a) 35°
+a) 35°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(35°)
 
-**i= 57.36 mA
+**i= 57.36 mA**
 
-(b) 95°
+b) 95°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(95°)
 
-**i= 99.62 mA
+**i= 99.62 mA**
 
-(c) 190°
+c) 190°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(190°)
 
-**i= -17.36 mA
+**i= -17.36 mA**
 
-(d) 215°
+d) 215°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(215°)
 
-**i= -57.36 mA
+**i= -57.36 mA**
 
-(e) 275°
+e) 275°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(275°)
 
-**i= -99.62 mA
+**i= -99.62 mA**
 
-(f) 360°
+f) 360°
 
 i= I_p*sen(θ)
 
 i= 100 mA*sen(360°)
 
-**i= 0 A
+**i= 0 A**
 
 19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
 
-	30°
+* 30°
 
 v= V_p*sen(θ+30°)
 
@@ -293,9 +294,9 @@ v= 15V*sen(30°+30°)
 
 v= 15V*sen(60°)
 
-**v= 12.99 V=13V
+**v= 12.99 V=13V**
 
-	45°
+* 45°
 
 v= V_p*sen(θ+30°)
 
@@ -303,9 +304,9 @@ v= 15V*sen(45°+30°)
 
 v= 15V*sen(75°)
 
-**v= 14.48 V=14.5V
+**v= 14.48 V=14.5V**
 
-	90°
+* 90°
 
 v= V_p*sen(θ+30°)
 
@@ -313,9 +314,9 @@ v= 15V*sen(90°+30°)
 
 v= 15V*sen(120°)
 
-**v= 12.99 V=13V
+**v= 12.99 V=13V**
 
-	180°
+* 180°
 
 v= V_p*sen(θ+30°)
 
@@ -323,9 +324,9 @@ v= 15V*sen(180°+30°)
 
 v= 15V*sen(210°)
 
-**v= -7.5 V
+**v= -7.5 V**
 
-	200°
+* 200°
 
 v= V_p*sen(θ+30°)
 
@@ -333,9 +334,9 @@ v= 15V*sen(200°+30°)
 
 v= 15V*sen(230°)
 
-**v= -11.49 V=-11.5V
+**v= -11.49 V=-11.5V**
 
-	300°
+* 300°
 
 v= V_p*sen(θ+30°)
 
@@ -343,7 +344,7 @@ v= 15V*sen(300°+30°)
 
 v= 15V*sen(330°)
 
-**v= -7.5 V
+**v= -7.5 V**
 
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
 
@@ -356,7 +357,8 @@ v2=25/0.707*sen(2π*2.2kHz*0.2 s)
 v2=13.02V 
 
 vcambio=v1-v2=(35.22-13.02)
-**vcambio=22.2 V
+
+**vcambio=22.2 V**
 
 * SECCIÓN 11–6 Introducción a los fasores
 
@@ -366,7 +368,7 @@ vcambio=v1-v2=(35.22-13.02)
 
 onda seno B= azul=sen(x)  (referencia)
 
-onda seno A=naranja=1.5* sen(x+π/4)(el de 45°)
+onda seno A=naranja=1.5*sen(x+π/4)(el de 45°)
 
 onda seno B=violeta=sen(x-π/3)(el de 60°)
 
@@ -376,25 +378,23 @@ onda seno B=violeta=sen(x-π/3)(el de 60°)
 
 ![imagen](https://user-images.githubusercontent.com/93879569/149497692-cbb20dcd-e1aa-433b-9729-4ca534372e29.png)
 
-	30 μs 
+* 30 μs 
 
 v=1V*sen(π/4*5kHz*30 μs) 
 
-**v=156 mV
+**v=156 mV**
 	
-  75 μs
+* 75 μs
 
 v=1V*sen(π/4*5kHz*75 μs) 
 
-**v=1 V
+**v=1 V**
 
-
-
-	125 μs 
+* 125 μs 
 
 v=1V*sen(π/4*5kHz*125 μs)
 
-**v= 0V
+**v= 0V**
 
 * SECCIÓN 11–7 Análisis de circuitos de ca
 
@@ -412,17 +412,17 @@ V_p=14.99V=15V
 
 V_máx=V_CD+V_p
 
-**V_máx=24V+15V=39V
+**V_máx=24V+15V=39V**
 
 V_mín=V_CD-V_p
 
-**V_mín=24V-15V=9V
+**V_mín=24V-15V=9V**
 
 31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?
 
 V_mín=V_CD-V_p
 
-**V_mín=5V-6V=-1V
+**V_mín=5V-6V=-1V**
 
 * SECCIÓN 11–9 Formas de onda no sinusoidales
 

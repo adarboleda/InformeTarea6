@@ -750,9 +750,9 @@ R = 10/2200
 
 * También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas  se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
 
-*Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
+* Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
 
-*Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
+* Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
 
 6. BIBLIOGRAFÍA
 

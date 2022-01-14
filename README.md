@@ -480,7 +480,7 @@ V_mín=V_CD-V_p
 
 ![image](https://user-images.githubusercontent.com/93733175/149527782-26688e3d-9e9e-48d4-b2c0-56f3b5745ef6.png)
 
-![image](https://user-images.githubusercontent.com/93733175/149527796-12e83a64-3e04-4fcf-896b-d1df1163077a.png)
+![image](https://user-images.githubusercontent.com/93733175/149530332-5bc844c0-31cd-46e7-8dc3-864d256ff1a1.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/149527816-97044034-8315-4784-bb4b-c079c5dfb7c8.png)
 
@@ -905,9 +905,15 @@ R = 10/2200
 
 * También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas  se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
 
-*Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
+* Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
 
-*Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
+* Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
+
+* Dentro del análisis de circuitos de ca tenemos que la potencia en circuitos de ca resistivos se determina del mismo modo que para circuitos de cd, excepto que se deben utilizar valores rms de corriente y voltaje. 
+
+* Los capacitores son capaces de guardar carga eléctrica durante mucho tiempo después de que se corta la corriente en un circuito.
+
+* Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo), se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
 
 6. BIBLIOGRAFÍA
 

@@ -100,6 +100,7 @@ T=(10 μs)/5
 **T=2 μs
 
 SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+
 5. La espira conductora del motor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
 
 f=(número de pares de polos)* rps
